@@ -9,3 +9,7 @@
   - assignment1 《初始化、正则化、梯度校验》  初始化和正则化的测试        2019年5月31日
   - assignment2 《优化算法》   Momentun、Adam算法实现      2019年6月12日
   - assignment3 《超参数调整，批量标准化，编程框架》 TensorFlow基础入门    2019年6月11日
+
+- Lesson4 Convolutional Neural Networks
+  - assignment1 《卷积神经网络》  搭建卷积神经网络模型以及应用（1&2）   2019年6月20日
+
